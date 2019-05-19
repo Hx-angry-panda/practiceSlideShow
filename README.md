@@ -20,7 +20,9 @@ overflow:hidden的意思是内容会被修剪，并且其余内容不可见
 由于点“第2张”是把图片左移300px，点“第3张”是把图片再左移300px，点“第4张”是把图片再再左移300px。
 
 allButtons是jQuery对象
+
 allButtons[i]是Dom对象
+
 $(allButtons[i])是jQuery对象
 
 ----------
